@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.list-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid rgb(122, 44, 7);
+    background-color: rgb(224, 192, 180);
+}
+
+.icon {
+    height: 20px;
+}
